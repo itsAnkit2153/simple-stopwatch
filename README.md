@@ -24,5 +24,9 @@ It supports **start, pause, reset, and lap tracking** with accurate time calcula
 
 ---
 
+## 🌐 Live Demo
 
+👉 **View Live App:**  
+https://simple-stopwatch-smoky.vercel.app/
 
+---
